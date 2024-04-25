@@ -44,7 +44,10 @@ This idea is mostly borrowed from the Mathematica
 ## Example: Live Interactive Graph
 
 <p align="center">
-<img alt="interactive graph screenshot" src="https://gist.github.com/assets/5204494/911a2dd9-3e12-456a-8766-d0e0fd93413d" />
+<img alt="interactive graph screenshot" src="https://github.com/aziis98/gdsl/assets/5204494/949eebed-d4da-4cec-97a0-aa4df25c5cb8" />
 </p>
+
+
+
     
 In this example I show how one can create a pretty decent live interactive graph just using `render2d` (and some utility functions like `rescale`)
